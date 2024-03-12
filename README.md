@@ -7,7 +7,7 @@ apt install default-jdk git-core gnupg flex bison gperf build-essential zip curl
 ```
 1. Clone kernal from github:
 ```
-git clone https://github.com/Dargon212121/sweet_nethunter_kernel -b 13
+git clone https://github.com/Dargon212121/sweet_nethunter_kernel.git
 ```
 
 2. Clone builder and toolchains:
