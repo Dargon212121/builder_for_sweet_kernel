@@ -1,7 +1,7 @@
 # BUILD
 1. Clone kernal from github:
 ```
-git https://github.com/ViP3R-KERNELs/kernel_xiaomi_sweet.git -b 13
+git clone https://github.com/ViP3R-KERNELs/kernel_xiaomi_sweet.git -b 13
 ```
 
 2. Clone builder and toolchains:
