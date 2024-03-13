@@ -17,7 +17,7 @@ git clone https://github.com/Dargon212121/builder_for_sweet_kernel.git
 
 3. Move builder in to kernal source:
 ```
-mv build_kernel.sh sweet_nethunter_kernel
+mv builder_for_sweet_kernel/build_kernel.sh sweet_nethunter_kernel
 ```
 
 4. Edit path to toolchains:
